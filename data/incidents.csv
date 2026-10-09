@@ -1,0 +1,9 @@
+description,category
+VPN connection failed,Network
+Unable to access VPN,Network
+Password reset issue,Access
+Account locked,Access
+Server outage detected,Infrastructure
+Database server unavailable,Infrastructure
+Application login problem,Application
+Website login error,Application
