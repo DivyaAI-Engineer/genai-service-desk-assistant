@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  genai-assistant:
+
+    build: .
+
+    container_name: genai-assistant
+
+    ports:
+      - "8501:8501"
+
+    restart: unless-stopped
